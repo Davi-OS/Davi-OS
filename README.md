@@ -2,10 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/NappOS">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NappOS&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Davi-OS&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/NappOS">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NappOS&layout=compact&theme=dark" />
+<a href="https://github.com/Davi-OS">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Davi-OS&layout=compact&theme=dark" />
 </a>
 </div>
 
