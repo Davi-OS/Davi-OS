@@ -19,7 +19,7 @@
 ##
   </div>
   
-  ![Snake animation](https://github.com/NappOS/NappOS/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Davi-OS/Davi-OS/blob/output/github-contribution-grid-snake.svg)
   
 - 🔭 Embusca da oportunidade de um estagio como dev...
 - 🌱 No momento estou 100% focado em estudar o C#...
