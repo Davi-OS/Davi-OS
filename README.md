@@ -1,7 +1,7 @@
 ## Eae beleza? Davi aqui!
 
 <div align="center">
-  <a href="https://github.com/NappOS">
+  <a href="https://github.com/Davi-OS">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Davi-OS&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/Davi-OS">
