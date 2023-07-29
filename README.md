@@ -1,9 +1,7 @@
 ## Eae beleza? Davi aqui!
-
+ 
 <div align="center">
-  <a href="https://github.com/Davi-OS">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Davi-OS&show_icons=true&theme=dark" />
-</a>
+   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="Davi-OS's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Davi-OS?cardType=github&theme=github-dark&preferLogin=false" />  </a>
 <a href="https://github.com/Davi-OS">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Davi-OS&layout=compact&theme=dark" />
 </a>
