@@ -1,22 +1,26 @@
-## Eae beleza? Davi aqui!
+# Opa, tudo bão ? 
+- Estudante da PUC Barreiro feliz e entusiasmado para ingressar na area de Back-End!
 
+ 
 <div align="center">
-  <a href="https://github.com/Davi-OS">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Davi-OS&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/Davi-OS">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Davi-OS&layout=compact&theme=dark" />
-</a>
+   <img  src='https://github-readme-stats.vercel.app/api?username=Davi-OS&theme=dark&show_icons=true&hide_border=true&count_private=true' />
+</div>
+<div align="center">
+   <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Davi-OS&theme=dark&hide_border=true' />
+</div>
+<div align="center">
+   <img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-OS&theme=dark&show_icons=true&hide_border=true&layout=compact' />
 </div>
 
-#
+
+##
 
 <div>
   <a href = "mailto:davioliveirasanto.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-olivera-santos-78b042198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.instagram.com/davi._.os/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-##
+#
   </div>
   
  <picture>
@@ -26,4 +30,4 @@
 </picture>
   
 - 🔭 Embusca da oportunidade de um estagio como dev...
-- 🌱 No momento estou 100% focado em estudar o C#...
+- 🌱 No momento estou 100% focado em estudar o .NET ...
