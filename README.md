@@ -31,3 +31,9 @@
   
 - 🔭 Embusca da oportunidade de um estagio como dev...
 - 🌱 No momento estou 100% focado em estudar o .NET ...
+
+# Certificados
+
+- Red Hat System Administration I (RH124)
+  
+![image](https://github.com/Davi-OS/Davi-OS/assets/112199758/3e2b2dad-484c-44eb-a740-f964c60a7777)
