@@ -32,13 +32,15 @@
 - 🔭 Embusca da oportunidade de um estagio como dev...
 - 🌱 No momento estou 100% focado em estudar o .NET ...
 
-# Certificados
+# Minha Tragetoria!! ate Agora....
 
 - Red Hat System Administration I (RH124)
   
 ![image](https://github.com/Davi-OS/Davi-OS/assets/112199758/3e2b2dad-484c-44eb-a740-f964c60a7777)
-
+                          
 - HackerRank CSharp(Basic)
   
 ![image](https://github.com/Davi-OS/Davi-OS/assets/112199758/170d4217-1a35-408f-a23c-ccd39b3af5ba)
+                            
+- Inicio do Curso de Sistemas de Informação na PUC Minas (08/2022)
 
