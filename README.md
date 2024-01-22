@@ -34,6 +34,10 @@
 
 # Minha Tragetoria!! ate Agora....
 
+- Curso C# Orientado a Objetos
+
+![image](https://github.com/Davi-OS/Davi-OS/assets/112199758/b6f89113-a2a4-4189-b07e-7d3ffb189b55)
+
 - Red Hat System Administration I (RH124)
   
 ![image](https://github.com/Davi-OS/Davi-OS/assets/112199758/3e2b2dad-484c-44eb-a740-f964c60a7777)
