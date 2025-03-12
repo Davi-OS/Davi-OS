@@ -1,5 +1,26 @@
-# Opa, bão ? 
-- Estudante da PUC Barreiro feliz e entusiasmado para ingressar na area de Back-End!
+# 👋 Olá! Eu sou Davi de Oliveira Santos  
+
+💻 **Desenvolvedor em formação | Entusiasta de DevOps e Cloud Computing** 🚀  
+
+Atualmente cursando **Sistemas de Informação na PUC Minas**, sou apaixonado por **Desenvolvimento Web** e **DevOps**, sempre buscando aprimorar minhas habilidades em **automação, infraestrutura como código e orquestração de containers**.  
+
+## 🚀 Tecnologias e Ferramentas  
+- Desenvolvimento backend com **Node.js, C#, Go e APIs REST**  
+- **Orquestração de containers com Kubernetes e ArgoCD**  
+- **Monitoramento e Observabilidade** com OpenTelemetry e New Relic  
+- **CI/CD e Infraestrutura como Código** para automação e escalabilidade  
+- Experiência com **Cloud Computing e Microsserviços**  
+
+## 📈 O que estou buscando?  
+Sempre explorando novas tecnologias para otimizar processos e melhorar a entrega de software. Meu objetivo é aprofundar conhecimentos em **DevOps, Cloud e Arquiteturas Escaláveis**.  
+
+## 📬 Contato  
+📧 E-mail: davioliveirasanto.work@gmail.com
+💼 LinkedIn: [Davi de Oliveira Santos](https://www.linkedin.com/in/davi-olivera-santos/)  
+
+
+Vamos trocar ideias sobre tecnologia? Me chame para conversar! 😃  
+
 
  
 <div align="center">
